@@ -1,0 +1,7 @@
+{
+    "notify":"on",
+    "telegram": {
+        "token" : "1814067387:AAEfaB4LEzWIDqKo5SlBKYB9sU_bObus6hY",
+        "chatId":"-1001367184617"
+    }
+}
